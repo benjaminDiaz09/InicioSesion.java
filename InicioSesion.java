@@ -13,7 +13,8 @@ public class InicioSesion {
         // Declara las variables 
         String nombreUsuario = "benjamin";
         String contrasenaUsuario = "1234";
-//
+
+        // Ingresar los nombres a comparar 
         String usuarioIngresado = obtenerCadena("Ingresa tu usuario: ");
         String contrasenaIngresado = obtenerCadena("Ingresa tu contraseña: ");
 
