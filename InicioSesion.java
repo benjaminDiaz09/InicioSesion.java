@@ -22,6 +22,7 @@ public class InicioSesion {
             System.out.println("Bienvenidos a Facebook");
         } else {
             System.out.println("Error usuario o contraseña incorrecta intente de nuevo");
+            System.out.println("Derechos reservados");
         }
     }
 }
