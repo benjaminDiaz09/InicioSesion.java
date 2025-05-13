@@ -10,9 +10,10 @@ public class InicioSesion {
 
     public static void main(String[] args) {
 
+        // Declara las variables 
         String nombreUsuario = "benjamin";
         String contrasenaUsuario = "1234";
-
+//
         String usuarioIngresado = obtenerCadena("Ingresa tu usuario: ");
         String contrasenaIngresado = obtenerCadena("Ingresa tu contraseña: ");
 
